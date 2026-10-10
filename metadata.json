@@ -1,0 +1,7 @@
+{
+  "name": "AegisFIM - File Integrity Checker",
+  "description": "Practical cybersecurity virtual internship project featuring baseline hashing, tamper detection, strict input validation, RBAC authentication, audit logging, and automated test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
